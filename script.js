@@ -35,16 +35,16 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Student", "AI Engineer", "Mechatronics Engineer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Mechatronics Engineering Student","Researcher", "AI learner", "Self driving car enthusiastic","Robotics Enthusiastic"],
+        typeSpeed: 50,
+        backSpeed: 20,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "AI Engineer", "Mechatronics Engineer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Mechatronics Engineering Student","Researcher", "AI learner", "Self driving car enthusiastic","Robotics Enthusiastic"],
+        typeSpeed: 50,
+        backSpeed: 20,
         loop: true
     });
 
